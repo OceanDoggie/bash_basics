@@ -1,6 +1,10 @@
 #!/bin/bash
 # read the name of the user and print hello
+
 echo “Main says: Hello!"
+
+echo "Branch says: Hi there!"
+
 read name
 echo "Welcome, $name"
 
